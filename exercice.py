@@ -14,8 +14,8 @@ def anagrams(words: list = None) -> bool:
     if words is None:
         # TODO: Demander les mots ici
         chaine1 = input()
+        chaine2 =
 
-        
         print(words[0,])
 
     return False
