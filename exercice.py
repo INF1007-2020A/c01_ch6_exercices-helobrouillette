@@ -17,6 +17,7 @@ def anagrams(words: list = None) -> bool:
         chaine2 = input()
         liste1, liste2 = [], []
 
+        
         print(words[0,])
 
     return False
