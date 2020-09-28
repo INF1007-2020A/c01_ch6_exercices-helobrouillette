@@ -25,8 +25,8 @@ def anagrams(words: list = None) -> bool:
 
         liste1.sort()
         liste2.sort()
-        
-        print(words[0,])
+
+        printliste
 
     return False
 
