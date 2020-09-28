@@ -24,7 +24,7 @@ def anagrams(words: list = None) -> bool:
             liste2.append(i)
 
         liste1.sort()
-        liste2
+        liste2.sort
         print(words[0,])
 
     return False
