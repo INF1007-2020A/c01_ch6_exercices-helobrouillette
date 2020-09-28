@@ -5,9 +5,9 @@
 def order(values: list = None) -> bool:
     if values is None:
         # TODO: Demander les valeurs ici
-        values = [input("Entrez...") for n in range()]
+        values = [input("Entrez...") for n in range(10)]
 
-    return False
+    return va;
 
 
 def anagrams(words: list = None) -> bool:
