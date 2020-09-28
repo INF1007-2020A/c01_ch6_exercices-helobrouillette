@@ -26,7 +26,7 @@ def anagrams(words: list = None) -> bool:
         liste1.sort()
         liste2.sort()
 
-    return 
+    return li
 
 
 def contains_doubles(items: list) -> bool:
