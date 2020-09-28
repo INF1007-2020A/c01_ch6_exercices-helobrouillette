@@ -15,7 +15,7 @@ def anagrams(words: list = None) -> bool:
         # TODO: Demander les mots ici
         chaine1 = input()
         chaine2 = input()
-        liste1, liste2 = sorted(list(chaine1)), sorted(list())
+        liste1, liste2 = sorted(list(chaine1)), sorted(list(chaine2))
 
         for i in chaine1:
             liste1.append(i)
