@@ -13,7 +13,7 @@ def order(values: list = None) -> bool:
 def anagrams(words: list = None) -> bool:
     if words is None:
         # TODO: Demander les mots ici
-        chai
+        chaine
         print(words[0,])
 
     return False
