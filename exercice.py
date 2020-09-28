@@ -21,7 +21,7 @@ def anagrams(words: list = None) -> bool:
             liste1.append(i)
 
         for i in chaine2:
-            li
+            liste2.append()
         print(words[0,])
 
     return False
